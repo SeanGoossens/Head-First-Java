@@ -2,9 +2,7 @@ package Chapter1;
 
 //Guess: There is no auto increment, so this will do nothing. Will loop forever.
 
-//Answer: This will compile and run (no output), but
-//without a line added to the program, it
-//would run forever inan infinite 'while' loop!
+//Answer: This will compile and run (no output), but without a line added to the program, it would run forever in an infinite 'while' loop!
 
 public class Exercise1b_a {
 
